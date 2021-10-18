@@ -1,2 +1,2 @@
 # TTS Bot
-TTS BOt Discord Bot
+TTS Bot Discord Bot
