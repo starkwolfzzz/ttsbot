@@ -1,2 +1,2 @@
-# TavernBartender
-TavernBartender Discord Bot
+# TTS Bot
+TTS BOt Discord Bot
